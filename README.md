@@ -52,14 +52,21 @@ The page shows four graphs showing the number of reviews and time spent on each 
 A glossary of key terms for this report
 
 Review: The act of grading a card with one of four options "Again", "Hard", "Good", "Easy".
+
 Lapse / Flunked Review: The act of answering "Again" to a review card.
+
 Interval: The amount of time between an initial and future review.
-Queue: The group that cards are placed in. "New" for unseen cards, "Due" for review cards, "Learning" for unseen but not yet learnt cards
-and lapsed review cards.
+
+Queue: The group that cards are placed in. "New" for unseen cards, "Due" for review cards, "Learning" for unseen but not yet learnt cards and lapsed review cards.
+
 Young Card: A review card with an interval less than 21 days.
+
 Mature Card: A review card with an interval of 21 days or more.
+
 Learning Review: Any review of a card that has not yet graduated graduated to the Due Queue.
+
 Relearning Review: A review of a previously lapsed card.
+
 Cram Review: A review that takes places outside the normal schedule.
 
 ## Citations
