@@ -71,7 +71,7 @@ Data is from my personal Anki usage.
 > For those wishing to use their own data, deepending on the version of Anki being used, the database may be found in collection.anki2 instead. collection.anki21 is for newer versions of Anki. 
 
 ## How to use this project.
-If you are an Anki user, feel free to clone this reprository or download the Power BI file and import your own exported data. Please follow Steps 1 to 3 above to obtain your own review data.
+If you are an Anki user, feel free to clone this reprository or download the Power BI file and import your own exported data. Please follow Steps 1 to 3 above to obtain your own review data and then replace the files in the "data" folder with your own own data files.
 
  > Please note, Anki allows users to change when a new day rolls over in Preferences. Please make sure that the day rolls over at the correct hour by checking the Config table in the model. This project allows for a rollover at 4.00am.
 
