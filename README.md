@@ -5,7 +5,7 @@ breakdown of the number of reviews, card retention rates, card maturity and revi
 application and a forecast of future material yet to be reviewed.
 
 ## About Anki
-Anki is an open-source flashcard programme that allows the user to create, share and review flashcards. 
+Anki is an open-source flashcard program that allows the user to create, share and review flashcards. 
 
 ### How Reviews Work
 * The application schedules a number of cards to be reviewed.
