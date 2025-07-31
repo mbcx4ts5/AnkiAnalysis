@@ -21,6 +21,8 @@ Cards are divided into three queues.
 * The "Due" Queue contains previously seen cards that need to be reviewed.
 * The "Learning" Queue contains cards that Anki thinks the user doesn't know. This includes cards that the user pressed Again whilst reviewing (known as a lapse) and cards from the New queue that have not yet graduated into the Due Queue.
 
+![anki_queues](Images/anki_kDE8jHGK9L.png)
+
 The functionality of these queues and the requirements for new and lapsed cards to graduate from the Learning Queue can be set by the user.
 
 ### Card Maturity
@@ -43,10 +45,14 @@ The first page shows an overview of general statistics regarding reviews.
 * Pie Charts showing the total number of each type of review and how the review was graded.
 * Various statistics including total number of reviews, detailed breakdown of type of review and grading of "Due Reviews", Again Rate and True Retention. These can be refined by day and week using the heatmap.
 
+![daily_overview](Images/PBIDesktop_Nak85bXaeI.png)
+
 ### Review Count / Time
 The second page shows historic review count and time spent reviewing.
 * Two stacked bar charts showing review count per day (last 30 days) and per month, separated by review type.
 * Total time spent reviewing per day (last 30 days) and per month, separated by review type.
+
+![review-count_time](Images/PBIDesktop_PoQG3ntvMW.png)
 
 ### Again Rate / True Retention
 The third page shows information about again rate and true retention.
@@ -54,11 +60,15 @@ The third page shows information about again rate and true retention.
 * Passed vs Failed reviews for new/learning, young and mature cards.
 * Again rate and true retention each day.
 
+![again_true_retention](Images/PBIDesktop_8NF9RuflDB.png)
+
 ### Forecast
 The fourth page shows various metrics forecasting reviews in the future.
 * Forecast of reviews scheduled for the next 20 days separated by maturity.
 * Histogram of Interval Shift for each card, showing the interval growth rates from each review.
 * Count of the number of cards with each interval.
+
+![forecast](Images/PBIDesktop_xgZEbHbCuv.png)
 
 ## How the Data was Obtained
 Data is from my personal Anki usage. 
