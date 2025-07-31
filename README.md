@@ -80,7 +80,7 @@ If you need help with the Anki's database structure, a detailed breakdown of the
 ##
 
 ## Glossary
-A glossary of key terms for this report
+A glossary of key terms for this report:
 
 Review: The act of grading a card with one of four options "Again", "Hard", "Good", "Easy".
 
@@ -89,10 +89,6 @@ Lapse / Flunked Review: The act of answering "Again" to a review card.
 Interval: The amount of time between an initial and future review (in days for due cards, seconds for learning cards and new cards).
 
 Queue: The group that cards are placed in. "New" for unseen cards, "Due" for review cards, "Learning" for unseen but not yet learnt cards and lapsed review cards.
-
-Young Card: A review card with an interval less than 21 days.
-
-Mature Card: A review card with an interval of 21 days or more.
 
 Learning Review: Any review of a card that has not yet graduated graduated to the Due Queue.
 
